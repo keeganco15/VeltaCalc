@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26326897/README.md)
 # VeltaCalc — Free UK Fitness Calculators
 
 > Fast, accurate fitness tools built for the UK. No sign-ups, no ads, no clutter.
