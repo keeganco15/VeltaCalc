@@ -13,7 +13,9 @@ Every fitness calculator I could find was either buried in ads, required a sign-
 The site covers 15+ tools including TDEE, macros, BMI, body fat, 1RM and more. Everything is built with vanilla HTML, CSS and JavaScript — no frameworks, no bloat, just fast-loading pages that do exactly what they say.
 
 ---
-
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ## Tech Stack
 
 | Layer | Technology |
