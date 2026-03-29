@@ -38,14 +38,14 @@ Keyword-led and appealing landing page with TDEE calculator ready to use, follow
 ---
 
 ### TDEE Calculator
-![TDEE Demo](tdee-demo.gif)
+![TDEE Demo](tdeeGIF.gif)
 Find out exactly how many calories you burn daily based on your stats and activity level.
 [Try it](https://veltacalc.co.uk/pages/tdee-calculator)
 
 ---
 
 ### Guides
-![Guides Demo](guideGIF.gif)
+![Guides Demo](guidesGIF.gif)
 20 guides to help users understand calculations and what the results mean for them.
 [Try it](https://veltacalc.co.uk/pages/one-rep-max-calculator)
 
