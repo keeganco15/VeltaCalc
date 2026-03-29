@@ -79,6 +79,8 @@ It's an ongoing process and honestly one of the more interesting problems I've w
 Built solo. AI assistance is used for boilerplate, debugging, and content drafting. 
 All architecture, product, and SEO decisions are made independently.
 
+---
+
 ## Note on Source Code
 
 This is a demo repository. The full source code is kept private as VeltaCalc is an active commercial project. This README exists to give an overview of the project, the problem it solves, and the thinking behind it. I'd love to hear what you think and any feedback!
