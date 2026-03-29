@@ -32,6 +32,7 @@ The site is live and fully functional — no login, no setup required.
 
 ### Homepage
 ![Homepage Demo](homepageGIF.gif)
+
 Keyword-led and appealing landing page with TDEE calculator ready to use, followed by the other tools.
 [Try it](https://veltacalc.co.uk/pages/macro-calculator)
 
@@ -39,6 +40,7 @@ Keyword-led and appealing landing page with TDEE calculator ready to use, follow
 
 ### TDEE Calculator
 ![TDEE Demo](tdeeGIF.gif)
+
 Find out exactly how many calories you burn daily based on your stats and activity level.
 [Try it](https://veltacalc.co.uk/pages/tdee-calculator)
 
@@ -46,6 +48,7 @@ Find out exactly how many calories you burn daily based on your stats and activi
 
 ### Guides
 ![Guides Demo](guidesGIF.gif)
+
 20 guides to help users understand calculations and what the results mean for them.
 [Try it](https://veltacalc.co.uk/pages/one-rep-max-calculator)
 
