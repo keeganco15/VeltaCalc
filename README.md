@@ -30,15 +30,27 @@ The site covers 15 tools including TDEE, macros, BMI, body fat, 1RM and more. Ev
 
 The site is live and fully functional — no login, no setup required.
 
-| Tool | Description |
-|---|---|
-| [TDEE Calculator](https://veltacalc.co.uk/pages/tdee-calculator) | Input your stats and activity level, get your daily calorie target |
-| [Macro Calculator](https://veltacalc.co.uk/pages/macro-calculator) | Splits your calories into protein, carbs and fat based on your goal |
-| [One Rep Max](https://veltacalc.co.uk/pages/one-rep-max-calculator) | Calculate your 1RM from any rep range using the Epley formula |
-| [Body Fat Estimator](https://veltacalc.co.uk/pages/body-fat-calculator) | Estimate body fat percentage using just a tape measure |
-| [BMI Calculator](https://veltacalc.co.uk/pages/bmi-calculator) | BMI with UK-contextualised healthy range guidance |
+### Homepage
+![Homepage Demo](homepageGIF.gif)
+Split your daily calories into the right protein, carbs and fat for your goal.
+[Try it](https://veltacalc.co.uk/pages/macro-calculator)
 
 ---
+
+### TDEE Calculator
+![TDEE Demo](tdee-demo.gif)
+Find out exactly how many calories you burn daily based on your stats and activity level.
+[Try it](https://veltacalc.co.uk/pages/tdee-calculator)
+
+---
+
+### Guides
+![Guides Demo](guideGIF.gif)
+Calculate your 1RM from any rep range using the Epley formula.
+[Try it](https://veltacalc.co.uk/pages/one-rep-max-calculator)
+
+---
+
 
 ## The Real Challenge — Getting People to Find It
 
