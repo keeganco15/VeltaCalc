@@ -55,7 +55,7 @@ Find out exactly how many calories you burn daily based on your stats and activi
 ---
 
 
-## The Real Challenge — Getting People to Find It
+## The Real Challenge, Getting People to Find It
 
 Building the tools was the straightforward part. The harder problem was traffic.
 
