@@ -1,4 +1,4 @@
-# VeltaCalc — Free UK Fitness Calculators
+# VeltaCalc - Free UK Fitness Calculators
 
 > Fast, accurate fitness tools and guides aimed for the UK market. No sign-ups, no ads, no clutter.
 
