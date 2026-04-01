@@ -1,6 +1,6 @@
 # VeltaCalc - Free UK Fitness Calculators
 
-> Fast, accurate fitness tools and guides aimed for the UK market. No sign-ups, no ads, no clutter.
+> Fast, accurate fitness tools and guides aimed at the UK market. No sign-ups, no ads, no clutter.
 
 **[veltacalc.co.uk](https://veltacalc.co.uk)**
 
@@ -8,9 +8,9 @@
 
 ## Why I Built This
 
-Every fitness calculator I could find was either buried in ads, required a sign-up, or wasn't built with UK units and guidelines in mind. I wanted something fast, clean and actually useful.
+Every fitness calculator I could find was either buried in ads, required a sign-up, or wasn't built with UK units and guidelines in mind. I wanted something fast, clean, and actually useful.
 
-The site covers 15 tools including TDEE, macros, BMI, body fat, 1RM and more. Everything is built with vanilla HTML, CSS and JavaScript, no frameworks.
+The site covers 15 tools, including TDEE, macros, BMI, body fat, 1RM, and more. Everything is built with vanilla HTML, CSS, and JavaScript, no frameworks.
 
 ---
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
