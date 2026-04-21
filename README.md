@@ -87,4 +87,4 @@ This is a demo repository. The full source code is kept private as VeltaCalc is 
 
 ---
 
-*Built and maintained solo by [Keegan Doherty](https://keegandoherty.com)*
+*Built and maintained by [Keegan Doherty](https://keegandoherty.com)*
